@@ -1,238 +1,149 @@
- <div align="center">
+&#x20;\<div align="center">
 
-# 👨‍💻 LENIN T
+\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:172554,100:312E81&height=190&section=header&text=LENIN%20T&fontSize=65&fontColor=FFFFFF&fontAlignY=45&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20PYTHON%20%20%E2%80%A2%20%20SOFTWARE%20ENGINEERING&descSize=14&descAlignY=72&animation=fadeIn](https://capsule-render.vercel.app/api?type=rect\&color=0:0B1020,50:172554,100:312E81\&height=190\&section=header\&text=LENIN%20T\&fontSize=65\&fontColor=FFFFFF\&fontAlignY=45\&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20PYTHON%20%20%E2%80%A2%20%20SOFTWARE%20ENGINEERING\&descSize=14\&descAlignY=72\&animation=fadeIn)" width="100%" alt="Lenin profile banner"/>
 
-### AI/ML Engineer · Python Developer · Software Engineer
+### Building intelligent systems. Engineering practical solutions.
 
-**Building intelligent systems. Engineering practical solutions.**
+[**Portfolio ↗**](https://lenin-afk.github.io/lenin-portfolio/)   ·   [**LinkedIn ↗**](https://www.linkedin.com/in/lenin-t/)   ·   [**GitHub ↗**](https://github.com/Lenin-afk)
 
-<p>
-  <a href="https://lenin-afk.github.io/lenin-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lenin-t/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Lenin-afk">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+📍 Coimbatore, India   ·   🎓 2026 ECE Graduate
 
-<img src="https://komarev.com/ghpvc/?username=Lenin-afk&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
-
-📍 Coimbatore, India · 🎓 2026 ECE Graduate
-
-</div>
+\</div>
 
 ---
 
-## 🧠 About Me
+## `$ whoami`
 
-I'm an Electronics and Communication Engineering graduate from **Kumaraguru College of Technology (KCT), Coimbatore**, interested in building intelligent software and practical engineering solutions.
+ECE graduate from **Kumaraguru College of Technology (KCT)** with an interest in building intelligent applications and practical software systems.
 
-I enjoy working across AI/ML, Generative AI, and backend development — from experimenting with machine learning models to building complete applications.
+I work primarily with Python, exploring the intersection of AI/ML, Generative AI, and backend engineering.
 
-- 🤖 Exploring Applied AI, Machine Learning, and Generative AI
-- 🧩 Building RAG systems and code intelligence tools
-- ⚙️ Developing Python applications and REST APIs
-- 🗄️ Working with databases, backend systems, and deployment
-- 🚀 Learning by building, experimenting, and shipping projects
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,c,html,css,postgres" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,sqlite" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws" />
-</p>
+- Building AI-powered applications and local RAG systems.
+- Developing machine learning models and Python APIs.
+- Exploring LLM applications, retrieval systems, and backend architecture.
+- Interested in turning technical ideas into useful, working products.
 
 ---
 
-## 🚀 Featured Projects
+## `$ tech --stack`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Domain            | Technologies                         |
+| ----------------- | ------------------------------------ |
+| **Languages**     | Python, JavaScript, C, SQL           |
+| **AI / ML**       | PyTorch, Scikit-learn, NumPy, Pandas |
+| **Generative AI** | RAG, FAISS, Ollama, Embeddings       |
+| **Backend**       | FastAPI, REST APIs, SQLAlchemy       |
+| **Databases**     | PostgreSQL, SQLite                   |
+| **Tools**         | Git, Docker, Linux, GitHub           |
+| **Cloud**         | AWS                                  |
 
-### 🧠 RepoPilot AI
+---
 
-**Local Codebase Intelligence & RAG Assistant**
+## `$ ls ./featured-projects`
 
-A Python-based code intelligence tool that indexes repositories and retrieves relevant code context to answer natural-language questions.
+\<table> \<tr> \<td width="50%" valign="top">
 
-- Repository scanning and parsing
-- Semantic search with MiniLM embeddings
-- FAISS-powered vector retrieval
-- Hybrid search and Ollama integration
-- Local-first architecture
+### 01 / RepoPilot AI
 
-**Stack:** Python · FAISS · Ollama · RAG
+**Codebase Intelligence & Local RAG**
 
-[View Repository →](https://github.com/Lenin-afk/RepoPilot-AI)
+A local-first Python code assistant that indexes repositories and retrieves relevant code context to answer natural-language questions.
 
-</td>
-<td width="50%" valign="top">
+- Repository parsing and intelligent chunking
+- MiniLM embeddings and FAISS retrieval
+- Hybrid search
+- Local LLM inference using Ollama
 
-### 📊 PredictIQ
+`PYTHON` `RAG` `FAISS` `OLLAMA`
 
-**AI-Powered Predictive Maintenance**
+[Explore repository ↗](https://github.com/Lenin-afk/RepoPilot-AI)
 
-A machine-learning system that predicts potential equipment failures using industrial sensor data.
+\</td> \<td width="50%" valign="top">
+
+### 02 / PredictIQ
+
+**Predictive Maintenance System**
+
+An ML-powered application that predicts potential equipment failures using industrial sensor data.
 
 - Random Forest classification
 - 98.15% test accuracy
 - FastAPI prediction service
-- React dashboard
-- SQLite prediction history
+- React dashboard and SQLite history
 - Docker containerization
 
-**Stack:** Python · Scikit-learn · FastAPI · React · Docker
+`PYTHON` `SCIKIT-LEARN` `FASTAPI` `DOCKER`
 
-[View Repository →](https://github.com/Lenin-afk/predictive-maintenance-ml)
+[Explore repository ↗](https://github.com/Lenin-afk/predictive-maintenance-ml)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+\</td> \</tr> \<tr> \<td width="50%" valign="top">
 
-### 🏠 ToLet Coimbatore
+### 03 / ToLet Coimbatore
 
 **Hyperlocal Rental Platform**
 
-A full-stack rental platform designed to connect property owners and tenants without unnecessary brokerage.
+A full-stack platform connecting property owners and tenants through a simple rental listing and discovery experience.
 
 - Property listing and search
-- Authentication with JWT
-- PostgreSQL database
+- JWT authentication
+- PostgreSQL integration
 - Cloudinary image management
 - Interactive maps
 
-**Stack:** React · FastAPI · PostgreSQL · JWT
+`REACT` `FASTAPI` `POSTGRESQL`
 
-[View Repository →](https://github.com/Lenin-afk/tolet-coimbatore)
+[Explore repository ↗](https://github.com/Lenin-afk/tolet-coimbatore)
 
-</td>
-<td width="50%" valign="top">
+\</td> \<td width="50%" valign="top">
 
-### 🤖 Autonomous Robot Telemetry Suite
+### 04 / Autonomous Robot Telemetry Suite
 
-**Robotics & Telemetry**
+**Robotics & Monitoring**
 
 An engineering project focused on telemetry and monitoring for autonomous robotics systems.
 
-**Focus:** Robotics · Monitoring · Embedded Systems
+`ROBOTICS` `TELEMETRY` `EMBEDDED SYSTEMS`
 
-[View Repository →](https://github.com/Lenin-afk/Autonomous-Robot-Telemetry-Suite)
+[Explore repository ↗](https://github.com/Lenin-afk/Autonomous-Robot-Telemetry-Suite)
 
-</td>
-</tr>
-</table>
+\</td> \</tr> \</table>
 
 ---
 
-## 📊 GitHub Analytics
+## `$ git status`
 
-<div align="center">
+\<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lenin-afk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+\<img src="[https://github-readme-stats.vercel.app/api?username=Lenin-afk&show_icons=true&hide_border=true&bg_color=0B1020&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Lenin-afk\&show_icons=true\&hide_border=true\&bg_color=0B1020\&title_color=818CF8\&icon_color=818CF8\&text_color=C9D1D9\&rank_icon=github)" width="60%" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenin-afk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+\<br/>
 
-<br/>
+\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Lenin-afk&bg_color=0B1020&color=818CF8&line=6366F1&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Lenin-afk\&bg_color=0B1020\&color=818CF8\&line=6366F1\&point=FFFFFF\&area=true\&hide_border=true)" width="100%" alt="GitHub contribution activity"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Lenin-afk&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
+\</div>
 
 ---
 
-## 🏆 GitHub Achievements
+## `$ currently_exploring`
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lenin-afk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lenin-afk&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity"/>
-
-</div>
+```text
+AI / ML              → Applied machine learning
+Generative AI        → RAG & LLM applications
+Backend Engineering  → Python & API development
+Deep Learning        → PyTorch
+Cloud & Deployment   → Building and shipping applications
+```
 
 ---
 
-## 🐍 Contribution Snake
+\<div align="center">
 
-<div align="center">
+### THINK. BUILD. ITERATE.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lenin-afk/Lenin-afk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lenin-afk/Lenin-afk/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Lenin-afk/Lenin-afk/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+*Always learning. Always building.*
 
-</div>
+[Portfolio](https://lenin-afk.github.io/lenin-portfolio/)   ·   [LinkedIn](https://www.linkedin.com/in/lenin-t/)
 
----
+\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:172554,100:0B1020&height=65&section=footer](https://capsule-render.vercel.app/api?type=rect\&color=0:312E81,50:172554,100:0B1020\&height=65\&section=footer)" width="100%" alt="Footer"/>
 
-## 🎯 Currently Exploring
-
-- Generative AI and Retrieval-Augmented Generation
-- LLM-powered applications and local inference
-- Advanced Python and backend engineering
-- Machine learning and deep learning with PyTorch
-- Cloud deployment and scalable applications
-
----
-
-## 🌐 Find Me Around the Web
-
-<div align="center">
-
-<a href="https://lenin-afk.github.io/lenin-portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Personal_Portfolio-Visit-7C3AED?style=for-the-badge" alt="Portfolio"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lenin-t/">
-  <img src="https://img.shields.io/badge/LinkedIn-Lenin_T-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Lenin-afk">
-  <img src="https://img.shields.io/badge/GitHub-Lenin--afk-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-### 💡 Build. Experiment. Engineer. Repeat. 🚀
-
-</div>
+\</div>
