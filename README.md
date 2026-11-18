@@ -1,149 +1,184 @@
-&#x20;\<div align="center">
+<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:172554,100:312E81&height=190&section=header&text=LENIN%20T&fontSize=65&fontColor=FFFFFF&fontAlignY=45&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20PYTHON%20%20%E2%80%A2%20%20SOFTWARE%20ENGINEERING&descSize=14&descAlignY=72&animation=fadeIn](https://capsule-render.vercel.app/api?type=rect\&color=0:0B1020,50:172554,100:312E81\&height=190\&section=header\&text=LENIN%20T\&fontSize=65\&fontColor=FFFFFF\&fontAlignY=45\&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20PYTHON%20%20%E2%80%A2%20%20SOFTWARE%20ENGINEERING\&descSize=14\&descAlignY=72\&animation=fadeIn)" width="100%" alt="Lenin profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=200&section=header&text=Lenin%20T&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Software%20Engineer&descSize=20&descAlignY=60" alt="Lenin T"/>
 
-### Building intelligent systems. Engineering practical solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Python+%C2%B7+PyTorch+%C2%B7+FastAPI+%C2%B7+RAG;Building+ML+systems+and+backend+APIs;ECE+graduate+turned+AI+%26+software+engineer;Open+to+entry-level+roles+worldwide" alt="Intro"/>
 
-[**Portfolio ↗**](https://lenin-afk.github.io/lenin-portfolio/)   ·   [**LinkedIn ↗**](https://www.linkedin.com/in/lenin-t/)   ·   [**GitHub ↗**](https://github.com/Lenin-afk)
+<br/><br/>
 
-📍 Coimbatore, India   ·   🎓 2026 ECE Graduate
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lenin-afk.github.io/lenin-portfolio/)
+[![Resume](https://img.shields.io/badge/Resume-F59E0B?style=for-the-badge&logo=readdotcv&logoColor=white)](https://lenin-afk.github.io/lenin-portfolio/Lenin_T_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenin-t/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leninrithick@gmail.com)
 
-\</div>
+📍 Coimbatore, India &nbsp;·&nbsp; 🎓 B.E. ECE, Kumaraguru College of Technology (2026) &nbsp;·&nbsp; 🟢 Open to work
 
----
-
-## `$ whoami`
-
-ECE graduate from **Kumaraguru College of Technology (KCT)** with an interest in building intelligent applications and practical software systems.
-
-I work primarily with Python, exploring the intersection of AI/ML, Generative AI, and backend engineering.
-
-- Building AI-powered applications and local RAG systems.
-- Developing machine learning models and Python APIs.
-- Exploring LLM applications, retrieval systems, and backend architecture.
-- Interested in turning technical ideas into useful, working products.
+</div>
 
 ---
 
-## `$ tech --stack`
+## 👋 About Me
 
-| Domain            | Technologies                         |
-| ----------------- | ------------------------------------ |
-| **Languages**     | Python, JavaScript, C, SQL           |
-| **AI / ML**       | PyTorch, Scikit-learn, NumPy, Pandas |
-| **Generative AI** | RAG, FAISS, Ollama, Embeddings       |
-| **Backend**       | FastAPI, REST APIs, SQLAlchemy       |
-| **Databases**     | PostgreSQL, SQLite                   |
-| **Tools**         | Git, Docker, Linux, GitHub           |
-| **Cloud**         | AWS                                  |
+I'm an electronics graduate turned AI and software engineer. I came to code through circuits, and what I enjoy most is turning an idea into something that runs: ML workflows from data preparation to evaluation, REST APIs, full-stack apps, and local-first AI tools.
 
----
-
-## `$ ls ./featured-projects`
-
-\<table> \<tr> \<td width="50%" valign="top">
-
-### 01 / RepoPilot AI
-
-**Codebase Intelligence & Local RAG**
-
-A local-first Python code assistant that indexes repositories and retrieves relevant code context to answer natural-language questions.
-
-- Repository parsing and intelligent chunking
-- MiniLM embeddings and FAISS retrieval
-- Hybrid search
-- Local LLM inference using Ollama
-
-`PYTHON` `RAG` `FAISS` `OLLAMA`
-
-[Explore repository ↗](https://github.com/Lenin-afk/RepoPilot-AI)
-
-\</td> \<td width="50%" valign="top">
-
-### 02 / PredictIQ
-
-**Predictive Maintenance System**
-
-An ML-powered application that predicts potential equipment failures using industrial sensor data.
-
-- Random Forest classification
-- 98.15% test accuracy
-- FastAPI prediction service
-- React dashboard and SQLite history
-- Docker containerization
-
-`PYTHON` `SCIKIT-LEARN` `FASTAPI` `DOCKER`
-
-[Explore repository ↗](https://github.com/Lenin-afk/predictive-maintenance-ml)
-
-\</td> \</tr> \<tr> \<td width="50%" valign="top">
-
-### 03 / ToLet Coimbatore
-
-**Hyperlocal Rental Platform**
-
-A full-stack platform connecting property owners and tenants through a simple rental listing and discovery experience.
-
-- Property listing and search
-- JWT authentication
-- PostgreSQL integration
-- Cloudinary image management
-- Interactive maps
-
-`REACT` `FASTAPI` `POSTGRESQL`
-
-[Explore repository ↗](https://github.com/Lenin-afk/tolet-coimbatore)
-
-\</td> \<td width="50%" valign="top">
-
-### 04 / Autonomous Robot Telemetry Suite
-
-**Robotics & Monitoring**
-
-An engineering project focused on telemetry and monitoring for autonomous robotics systems.
-
-`ROBOTICS` `TELEMETRY` `EMBEDDED SYSTEMS`
-
-[Explore repository ↗](https://github.com/Lenin-afk/Autonomous-Robot-Telemetry-Suite)
-
-\</td> \</tr> \</table>
+| | |
+|---|---|
+| 🎓 **Education** | B.E. Electronics & Communication, Kumaraguru College of Technology (2022–2026), CGPA 7.90 |
+| 🎯 **Looking for** | Entry-level roles in AI/ML and software engineering |
+| 📚 **Learning** | Deep learning with PyTorch, Generative AI |
+| 🔧 **Background** | Embedded systems and IoT (ESP32, Arduino) |
 
 ---
 
-## `$ git status`
+## 🛠️ Tech Stack
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-stats.vercel.app/api?username=Lenin-afk&show_icons=true&hide_border=true&bg_color=0B1020&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Lenin-afk\&show_icons=true\&hide_border=true\&bg_color=0B1020\&title_color=818CF8\&icon_color=818CF8\&text_color=C9D1D9\&rank_icon=github)" width="60%" alt="GitHub statistics"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,numpy,pandas,fastapi,postgres,sqlite,react,docker,github,arduino&perline=12" alt="Tech icons"/>
 
-\<br/>
+<br/>
 
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Lenin-afk&bg_color=0B1020&color=818CF8&line=6366F1&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Lenin-afk\&bg_color=0B1020\&color=818CF8\&line=6366F1\&point=FFFFFF\&area=true\&hide_border=true)" width="100%" alt="GitHub contribution activity"/>
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-3B82F6?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-1F2937?style=flat-square&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-EC4899?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-FB015B?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-7C3AED?style=flat-square&logo=railway&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ESP-NOW](https://img.shields.io/badge/ESP--NOW-F97316?style=flat-square)
 
-\</div>
+</div>
+
+| Area | Tools |
+|---|---|
+| 🤖 **AI / ML** | Python, PyTorch, scikit-learn, Sentence Transformers, FAISS, Ollama, RAG, LLMs, Prompt Design |
+| 📊 **Data** | NumPy, Pandas, SQL, Data Preprocessing, Model Evaluation |
+| ⚙️ **Backend** | FastAPI, REST APIs, PostgreSQL, SQLite, JWT authentication |
+| 🎨 **Frontend** | React, Leaflet |
+| 🚀 **Deployment** | Docker, Render, Railway, GitHub |
+| 🔌 **Hardware** | ESP32, Arduino, ESP-NOW |
 
 ---
 
-## `$ currently_exploring`
+## 🚀 Featured Projects
 
-```text
-AI / ML              → Applied machine learning
-Generative AI        → RAG & LLM applications
-Backend Engineering  → Python & API development
-Deep Learning        → PyTorch
-Cloud & Deployment   → Building and shipping applications
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 RepoPilot AI
+**Local codebase assistant (RAG)**
+
+Indexes Python repositories and answers questions grounded in retrieved code.
+
+- Repository scanning and parsing
+- Semantic search with Sentence Transformers (MiniLM)
+- FAISS vector retrieval + hybrid reranking
+- Ollama integration, local-first design
+
+`Python` `FAISS` `Sentence Transformers` `Ollama`
+
+[📂 Repository](https://github.com/Lenin-afk/RepoPilot-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 PredictIQ
+**Predictive maintenance** · Deployed Oct 2026
+
+Predicts machine-failure probability from AI4I 2020 sensor data.
+
+- Random Forest classifier, **98.15% test accuracy**
+- FastAPI prediction service + React dashboard
+- Saved prediction history (SQLite)
+- Dockerized, hosted on Render
+
+`Python` `scikit-learn` `FastAPI` `React` `SQLite` `Docker`
+
+[📂 Repository](https://github.com/Lenin-afk/predictive-maintenance-ml) · [🌐 Live Demo](https://predictiq-frontend-nzjy.onrender.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 ToLet Coimbatore
+**Broker-free room rentals** · Apr–Jun 2026
+
+Full-stack platform connecting tenants and house owners in Coimbatore.
+
+- FastAPI + PostgreSQL API with JWT auth
+- Cloudinary photo uploads
+- React + Leaflet interactive map
+- Installable as a PWA
+
+`FastAPI` `PostgreSQL` `React` `Leaflet` `JWT`
+
+[📂 Repository](https://github.com/Lenin-afk/tolet-coimbatore)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 Hardware Roots
+**Embedded & IoT builds** · 2024–26
+
+Where I learned to debug real systems before moving to software.
+
+- Vehicle platooning
+- IoT factory monitor
+- RF-controlled car
+
+`ESP32` `Arduino` `ESP-NOW`
+
+</td>
+</tr>
+</table>
 
 ---
 
-\<div align="center">
+## 🧭 Journey
 
-### THINK. BUILD. ITERATE.
+| When | What |
+|---|---|
+| **2022** | Began B.E. in Electronics & Communication Engineering |
+| **2026** | Started focused study of ML, deep learning with PyTorch and FastAPI backends; built and deployed ToLet Coimbatore |
+| **May 2026** | Graduated with a CGPA of 7.90 |
+| **Now** | Job searching and building: entry-level AI/ML and software engineering |
 
-*Always learning. Always building.*
+---
 
-[Portfolio](https://lenin-afk.github.io/lenin-portfolio/)   ·   [LinkedIn](https://www.linkedin.com/in/lenin-t/)
+## 📊 GitHub Stats
 
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:172554,100:0B1020&height=65&section=footer](https://capsule-render.vercel.app/api?type=rect\&color=0:312E81,50:172554,100:0B1020\&height=65\&section=footer)" width="100%" alt="Footer"/>
+<div align="center">
 
-\</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lenin-afk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenin-afk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Lenin-afk&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+- Deep learning with PyTorch
+- Generative AI, RAG and LLM applications
+- Full-stack and ML projects, shared on my [GitHub](https://github.com/Lenin-afk)
+
+---
+
+<div align="center">
+
+### Let's build something great
+
+[![Email](https://img.shields.io/badge/leninrithick@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leninrithick@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=100&section=footer" alt="footer"/>
+
+</div>
